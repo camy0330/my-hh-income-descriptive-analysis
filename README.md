@@ -1,4 +1,4 @@
-# Descriptive-Statistical-Analysis-of-Malaysian-Household-Income-2022-.ipynb
+# Descriptive-Statistical-Analysis-of-Malaysian-Household-Income-2022-
 A Python-based descriptive statistical analysis of Malaysian household income inequality across 200 districts using OpenDOSM data.
 
 Malaysian Household Income Analysis (2022)
